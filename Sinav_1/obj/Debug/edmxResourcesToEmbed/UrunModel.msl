@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="UrunKayitDbModelStoreContainer" CdmEntityContainer="UrunKayitDbEntities">
+    <EntitySetMapping Name="UrunBilgileris">
+      <EntityTypeMapping TypeName="UrunKayitDbModel.UrunBilgileri">
+        <MappingFragment StoreEntitySet="UrunBilgileri">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UrunAdi" ColumnName="UrunAdi" />
+          <ScalarProperty Name="BirimFiyat" ColumnName="BirimFiyat" />
+          <ScalarProperty Name="StokMiktari" ColumnName="StokMiktari" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

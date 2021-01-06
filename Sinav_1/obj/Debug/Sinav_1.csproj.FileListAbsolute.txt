@@ -1,0 +1,28 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Sinav_1\Sinav_1\bin\Debug\Sinav_1.exe.config
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Sinav_1\Sinav_1\bin\Debug\Sinav_1.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Sinav_1\Sinav_1\bin\Debug\Sinav_1.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Sinav_1\Sinav_1\obj\Debug\Sinav_1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Sinav_1\Sinav_1\obj\Debug\Sinav_1.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Sinav_1\Sinav_1\obj\Debug\Sinav_1.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Sinav_1\Sinav_1\obj\Debug\Sinav_1.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Sinav_1\Sinav_1\obj\Debug\Sinav_1.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Sinav_1\Sinav_1\obj\Debug\Sinav_1.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Sinav_1\Sinav_1\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Sinav_1\Sinav_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Sinav_1\Sinav_1\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\Sinav_1\Sinav_1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Eski Calismalar\Sinav_1\Sinav_1\bin\Debug\Sinav_1.exe.config
+E:\Eski Calismalar\Sinav_1\Sinav_1\bin\Debug\Sinav_1.exe
+E:\Eski Calismalar\Sinav_1\Sinav_1\bin\Debug\Sinav_1.pdb
+E:\Eski Calismalar\Sinav_1\Sinav_1\bin\Debug\EntityFramework.dll
+E:\Eski Calismalar\Sinav_1\Sinav_1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Eski Calismalar\Sinav_1\Sinav_1\bin\Debug\EntityFramework.xml
+E:\Eski Calismalar\Sinav_1\Sinav_1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Eski Calismalar\Sinav_1\Sinav_1\obj\Debug\Sinav_1.csprojAssemblyReference.cache
+E:\Eski Calismalar\Sinav_1\Sinav_1\obj\Debug\Sinav_1.Form1.resources
+E:\Eski Calismalar\Sinav_1\Sinav_1\obj\Debug\Sinav_1.Properties.Resources.resources
+E:\Eski Calismalar\Sinav_1\Sinav_1\obj\Debug\Sinav_1.csproj.GenerateResource.cache
+E:\Eski Calismalar\Sinav_1\Sinav_1\obj\Debug\Sinav_1.csproj.CoreCompileInputs.cache
+E:\Eski Calismalar\Sinav_1\Sinav_1\obj\Debug\Sinav_1.csproj.CopyComplete
+E:\Eski Calismalar\Sinav_1\Sinav_1\obj\Debug\Sinav_1.exe
+E:\Eski Calismalar\Sinav_1\Sinav_1\obj\Debug\Sinav_1.pdb
